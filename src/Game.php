@@ -14,7 +14,7 @@ class Game {
 		"You sunk my ship!",
 		"You already shot there...",
 		"victory" => "Thanks for playing.",
-		"format" => "The coordinates must be provided in the following format: A 1"
+		"format" => "The coordinates must be provided in the following format: A1"
 		);
 
 	public function __construct(){
