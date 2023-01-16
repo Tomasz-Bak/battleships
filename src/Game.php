@@ -15,7 +15,7 @@ class Game {
 		"You already shot there...",
 		"victory" => "Thanks for playing.",
 		"format" => "The coordinates must be provided in the following format: A1"
-		);
+	);
 
 	public function __construct(){
 		$this->board = new Board();
